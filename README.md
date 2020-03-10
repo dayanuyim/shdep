@@ -10,7 +10,7 @@ Installation
 
 1. Prerequisite
 
-    Shdep leverages `shfmt/v2.0` to parse the script syntax tree. A copy can be found in `tools` folder. Put it in one of  your path in $PATH.
+    Shdep leverages [shfmt](https://github.com/mvdan/sh)/v2.0 to parse the script syntax tree. A copy can be found in `tools` folder. Put it in one of  your path in $PATH.
 
 2. Build Gradle Task
 
